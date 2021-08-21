@@ -23,6 +23,7 @@ p{
 main{
     flex: 1;
     display: flex;
+    overflow: auto;
 }
 .users{
      width: 200px;
